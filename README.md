@@ -16,29 +16,19 @@ node src/arena-fighters.js
 ````
 
 🧑‍🤝‍🧑 Personagens
+--------------------------------------------------------------
 Akira
 🧬 Especialista em força bruta, porém com agilidade mediana.
-
-
 FORÇA: 5
-
 AGILIDADE: 3
-
 RESISTÊNCIA: 4
-
-PONTOS: 0 (inicial)
-
+-------------------------------------------------------------
 Bruno
 ⚡ Um lutador ágil e rápido, com menos resistência.
-
-
 FORÇA: 4
-
 AGILIDADE: 5
-
 RESISTÊNCIA: 3
-
-PONTOS: 0 (inicial)
+-------------------------------------------------------------
 
 🌀 Fases do Combate
 O combate é dividido em rodadas. Em cada rodada, uma das seguintes fases é sorteada:
