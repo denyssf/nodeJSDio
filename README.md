@@ -19,12 +19,14 @@ node src/arena-fighters.js
 --------------------------------------------------------------
 Akira
 🧬 Especialista em força bruta, porém com agilidade mediana.
+
 FORÇA: 5
 AGILIDADE: 3
 RESISTÊNCIA: 4
 -------------------------------------------------------------
 Bruno
 ⚡ Um lutador ágil e rápido, com menos resistência.
+
 FORÇA: 4
 AGILIDADE: 5
 RESISTÊNCIA: 3
