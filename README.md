@@ -11,9 +11,9 @@ Dois lutadores, **Akira** e **Bruno**, se enfrentam em uma batalha de 5 rodadas 
 1. Clone ou baixe este repositório
 2. Instale o Node.js (caso ainda não tenha)
 3. Execute o jogo com o comando:
-
-```bash
+```
 node src/arena-fighters.js
+````
 
 🧑‍🤝‍🧑 Personagens
 Akira
